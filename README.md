@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Macus</h1>
 <h3 align="center">A passionate Full Stack developer from Bangkok</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pichayean&label=Profile%20views&color=0e75b6&style=flat" alt="pichayean" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pichayean" alt="pichayean" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pichayean&label=Profile%20views&color=0e75b6&style=flat" alt="pichayean" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pichayean" alt="pichayean" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pichayeany" target="blank"><img src="https://img.shields.io/twitter/follow/pichayeany?logo=twitter&style=for-the-badge" alt="pichayeany" /></a> </p>
 
@@ -45,6 +46,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/macus.p"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/macus.p" /></a><a href="https://ko-fi.com/https://ko-fi.com/pichayean"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/pichayean" /></a></p><br><br>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pichayean&show_icons=true&locale=en&layout=compact" alt="pichayean" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pichayean&show_icons=true&locale=en" alt="pichayean" /></p>
@@ -52,4 +54,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pichayean&" alt="pichayean" /></p>
 
 
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 //https://rahuldkjain.github.io/
+
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+
