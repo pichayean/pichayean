@@ -12,13 +12,13 @@
 
 <h3 align="left">We have a lot of work.</h3>
 
-- 🔭 I’m currently working on [pichayean/shortUrl.git](https://short.msshifu.com)
+- 🔭 I’m currently working on [pichayean/shortUrl.git](https://short.trustmacus.com)
 
-- 📝 I regularly write articles on [knowledges.msshifu.com](https://knowledges.msshifu.com)
+- 📝 I regularly write articles on [knowledges.trustmacus.com](https://knowledges.trustmacus.com)
 
 - 💬 Ask me about **dotnet, angular, react, react-native**
 
-- 📫 How to reach me **pichayeanyensiri@gmail.com**
+- 📫 How to reach me [medium.com](https://medium.com/@rugby4)
 
 - 📄 Know about my experiences [-](-)
 
@@ -27,11 +27,11 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 
-- 🔭 I’m show howto create minimalapi with dotnet6 [knowledges/minimalapidotnet6](https://knowledges.msshifu.com/blog/minimalapidotnet6)
+- 🔭 I’m show howto create minimalapi with dotnet6 [knowledges/minimalapidotnet6](https://knowledges.trustmacus.com/blog/minimalapidotnet6)
 
-- 🔭 I’m show what new in dotnet6 [knowledges/whatnewindotnet6](https://knowledges.msshifu.com/blog/whatnewindotnet6)
+- 🔭 I’m show what new in dotnet6 [knowledges/whatnewindotnet6](https://knowledges.trustmacus.com/blog/whatnewindotnet6)
 
-- 🔭 More.. [knowledges/⭐](https://knowledges.msshifu.com)
+- 🔭 More.. [knowledges/⭐](https://knowledges.trustmacus.com)
 
 <!-- BLOG-POST-LIST:END -->
 
