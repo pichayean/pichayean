@@ -14,9 +14,9 @@
 
 - 🔭 Me => [https://pichayean.github.io](https://pichayean.github.io)
 
-- 🔭 I’m currently working on [pichayean/shortUrl.git](https://short.trustmacus.com)
+- 🔭 I’m currently working on [pichayean/shortUrl.git](https://short.codingholiday.com)
 
-- 📝 I regularly write articles on [knowledges.trustmacus.com](https://knowledges.trustmacus.com)
+- 📝 I regularly write articles on [knowledges.trustmacus.com](https://knowledges.codingholiday.com)
 
 - 💬 Ask me about **dotnet, angular, react, react-native**
 
@@ -29,11 +29,11 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 
-- 🔭 I’m show howto create minimalapi with dotnet6 [knowledges/minimalapidotnet6](https://knowledges.trustmacus.com/blog/minimalapidotnet6)
+- 🔭 I’m show howto create minimalapi with dotnet6 [knowledges/minimalapidotnet6](https://knowledges.codingholiday.com/blog/minimalapidotnet6)
 
-- 🔭 I’m show what new in dotnet6 [knowledges/whatnewindotnet6](https://knowledges.trustmacus.com/blog/whatnewindotnet6)
+- 🔭 I’m show what new in dotnet6 [knowledges/whatnewindotnet6](https://knowledges.codingholiday.com/blog/whatnewindotnet6)
 
-- 🔭 More.. [knowledges/⭐](https://knowledges.trustmacus.com)
+- 🔭 More.. [knowledges/⭐](https://knowledges.codingholiday.com)
 
 <!-- BLOG-POST-LIST:END -->
 
