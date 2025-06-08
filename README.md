@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [knowledges.trustmacus.com](https://knowledges.codingholiday.com)
 
-- 💬 Ask me about **dotnet, angular, react, react-native**
+- 💬 Ask me about **dotnet, angular, react, react-native, golang**
 
 - 📫 How to reach me [medium.com](https://medium.com/@rugby4)
 
